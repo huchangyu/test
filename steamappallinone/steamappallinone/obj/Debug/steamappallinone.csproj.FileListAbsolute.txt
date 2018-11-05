@@ -1,0 +1,11 @@
+C:\Users\80554\Desktop\work\steamappallinone\steamappallinone\bin\Debug\steamappallinone.exe.config
+C:\Users\80554\Desktop\work\steamappallinone\steamappallinone\bin\Debug\steamappallinone.exe
+C:\Users\80554\Desktop\work\steamappallinone\steamappallinone\bin\Debug\steamappallinone.pdb
+C:\Users\80554\Desktop\work\steamappallinone\steamappallinone\obj\Debug\steamappallinone.csprojAssemblyReference.cache
+C:\Users\80554\Desktop\work\steamappallinone\steamappallinone\obj\Debug\steamappallinone.Form1.resources
+C:\Users\80554\Desktop\work\steamappallinone\steamappallinone\obj\Debug\steamappallinone.Form2.resources
+C:\Users\80554\Desktop\work\steamappallinone\steamappallinone\obj\Debug\steamappallinone.Properties.Resources.resources
+C:\Users\80554\Desktop\work\steamappallinone\steamappallinone\obj\Debug\steamappallinone.csproj.GenerateResource.cache
+C:\Users\80554\Desktop\work\steamappallinone\steamappallinone\obj\Debug\steamappallinone.csproj.CoreCompileInputs.cache
+C:\Users\80554\Desktop\work\steamappallinone\steamappallinone\obj\Debug\steamappallinone.exe
+C:\Users\80554\Desktop\work\steamappallinone\steamappallinone\obj\Debug\steamappallinone.pdb
