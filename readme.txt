@@ -1,2 +1,1 @@
-hello world 
-i'm baijiaao
+learn how to use github and some homework codes
